@@ -20,3 +20,5 @@
 每篇论文一个文件夹，包含精读笔记和配图。
 
 - [AlexNet（NIPS 2012）](论文精读笔记/AlexNet-2012) — *ImageNet Classification with Deep Convolutional Neural Networks*，现代深度学习的开端之作
+- [ResNet（2015）](论文精读笔记/ResNet-2015) — *Deep Residual Learning for Image Recognition*，残差学习 y = F(x) + x，让上百层网络可训练
+- [Transformer（NeurIPS 2017）](论文精读笔记/Transformer-2017) — *Attention Is All You Need*，自注意力架构开山之作，含架构标注图与多头注意力详解图
