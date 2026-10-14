@@ -25,4 +25,4 @@
 
 ## 📖 书籍笔记
 
-- [Dive into Deep Learning（动手学深度学习）](书籍笔记/DiveIntoDeepLearning) — 基础概念、CNN 架构演进等章节的阅读笔记，含公式推导与个人理解
+- [Dive into Deep Learning（动手学深度学习）](书籍笔记/DiveIntoDeepLearning) — 基础概念、CNN 架构演进、注意力机制、优化算法等章节的阅读笔记，含公式推导与个人理解
