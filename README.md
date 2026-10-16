@@ -23,6 +23,7 @@
 - [ResNet（2015）](论文精读笔记/ResNet-2015) — *Deep Residual Learning for Image Recognition*，残差学习 y = F(x) + x，让上百层网络可训练
 - [Transformer（NeurIPS 2017）](论文精读笔记/Transformer-2017) — *Attention Is All You Need*，自注意力架构开山之作，含架构标注图与多头注意力详解图
 - [BERT（NAACL 2019）](论文精读笔记/BERT-2019) — *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding*，MLM + NSP 预训练实现深度双向理解，含全链路维度流转图解
+- [o1 System Card（2024）](论文精读笔记/o1-SystemCard-2024) — *OpenAI o1 System Card*，推理模型时代的安全评估范式，重点笔记：审慎对齐、指令层级、CoT 欺骗监控、Apollo 密谋评估、准备度框架首个 Medium 评级
 
 ## 📖 书籍笔记
 
