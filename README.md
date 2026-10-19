@@ -24,6 +24,7 @@
 - [Transformer（NeurIPS 2017）](论文精读笔记/Transformer-2017) — *Attention Is All You Need*，自注意力架构开山之作，含架构标注图与多头注意力详解图
 - [BERT（NAACL 2019）](论文精读笔记/BERT-2019) — *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding*，MLM + NSP 预训练实现深度双向理解，含全链路维度流转图解
 - [GPT 系列（2018–2020）](论文精读笔记/GPT-2018-2020) — *Improving Language Understanding by Generative Pre-Training* / *Language Models are Unsupervised Multitask Learners* / *Language Models are Few-Shot Learners*，三代演进：微调 → zero-shot prompt → few-shot 上下文学习，含 13 张结构与算法示意图
+- [DeepSeek-V2（2024）](论文精读笔记/DeepSeek-V2-2024) — *DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model*，MLA 多头潜在注意力 + DeepSeekMoE 细粒度/共享专家，含论文全文中文译文与 MoE 图解讲义
 
 ## 📖 书籍笔记
 
